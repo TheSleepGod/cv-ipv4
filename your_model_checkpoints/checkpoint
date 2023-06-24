@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights.e49-acc0.5611.tf"
+all_model_checkpoint_paths: "weights.e49-acc0.5611.tf"
